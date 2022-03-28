@@ -3,22 +3,22 @@
 This is newsmonkey app in which you can see any kind of news like sports,general,science,technology,sports..it's very cool newsapp.
 
 <img src="https://github.com/nishant378/NewsApp/blob/main/1.png" 
-alt="" width="840" height="180" border="10" />
+alt="" width="840" height="480" border="10" />
 
 <img src="https://github.com/nishant378/NewsApp/blob/main/2.png" 
-alt="" width="840" height="180" border="10" />
+alt="" width="840" height="480" border="10" />
 
 <img src="https://github.com/nishant378/NewsApp/blob/main/3.png" 
-alt="" width="840" height="180" border="10" />
+alt="" width="840" height="480" border="10" />
 
 <img src="https://github.com/nishant378/NewsApp/blob/main/4.png" 
-alt="" width="840" height="180" border="10" />
+alt="" width="840" height="480" border="10" />
 
 <img src="https://github.com/nishant378/NewsApp/blob/main/5.png" 
-alt="" width="840" height="180" border="10" />
+alt="" width="840" height="480" border="10" />
 
 <img src="https://github.com/nishant378/NewsApp/blob/main/6.png" 
-alt="" width="840" height="180" border="10" />
+alt="" width="840" height="480" border="10" />
 
 
 
